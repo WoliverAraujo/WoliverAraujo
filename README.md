@@ -2,8 +2,8 @@
 
 
 
-- 🌱 Estou estudando Front-end com JavaScrip junto com HTML e CSS.
-- 👯 Por aqui você também vai encontrar Python. Foi a primeira linguagem de programação que aprendi.
+    - 📖 Estou estudando Front-end com JavaScrip junto com HTML e CSS.
+    - 🐥 Por aqui você também vai encontrar Python. Foi a primeira linguagem de programação que aprendi.
 
 
 <div align="center">
