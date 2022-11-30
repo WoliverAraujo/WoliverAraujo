@@ -1,15 +1,14 @@
 ### Olá! Eu sou Woliver 👋
 
 
-
-    - 📖 Estou estudando Front-end com JavaScrip junto com HTML e CSS.
-    - 🐥 Por aqui você também vai encontrar Python. Foi a primeira linguagem de programação que aprendi.
+- 📖 Estou estudando Front-end com JavaScrip junto com HTML e CSS.
+- 🐥 Por aqui você também vai encontrar Python. Foi a primeira linguagem de programação que aprendi.
 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/woliveraraujo/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WoliverAraujo&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoliverAraujo&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WoliverAraujo&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoliverAraujo&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
